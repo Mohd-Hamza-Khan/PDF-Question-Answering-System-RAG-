@@ -1,6 +1,3 @@
-Below is a **clean, professional GitHub README** you can directly paste into your repository. It is written to look like **a strong AI/ML portfolio project**.
-
----
 
 # 📄 PDF Question Answering System using RAG
 
