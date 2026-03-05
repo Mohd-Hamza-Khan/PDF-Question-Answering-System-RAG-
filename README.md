@@ -91,7 +91,7 @@ project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mohd-hamza-khan/pdf-rag-system.git
+git clone https://github.com/mohd-hamza-khan/PDF-Question-Answering-System-RAG-.git
 cd pdf-rag-system
 ```
 
