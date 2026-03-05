@@ -126,7 +126,7 @@ ollama pull mxbai-embed-large
 Run the ingestion script:
 
 ```bash
-python ingest.py
+python create_memory_for_llm.py
 ```
 
 This will:
@@ -149,7 +149,7 @@ Saved FAISS vector store to vectorestore/db_faiss successfully.
 Run the QA system:
 
 ```bash
-python query.py
+python connect_memory_with_llm.py
 ```
 
 Example:
