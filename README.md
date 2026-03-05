@@ -92,7 +92,7 @@ project/
 
 ```bash
 git clone https://github.com/mohd-hamza-khan/PDF-Question-Answering-System-RAG-.git
-cd pdf-rag-system
+cd PDF-Question-Answering-System-RAG-
 ```
 
 ---
